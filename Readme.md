@@ -56,22 +56,26 @@
 <details>
 <summary>결과물 보기</summary>
   
-## 웹 디자인 및 구조 설계
-<img src="https://github.com/user-attachments/assets/52e2e0c8-8761-4208-b8c4-fb95a2c0b07e"/>
-<img src="https://github.com/user-attachments/assets/9e5fb3ac-aa15-4221-88a9-43444ad45dda"/>
+## 데이터 셋 CSV파일
+![image](https://github.com/user-attachments/assets/630605ab-9c9f-4fb5-ba4d-b08920dd1a3f)
 
-## 개발 회의[디스코드 화면공유 이용]
-<img src="https://github.com/user-attachments/assets/0975be43-ea07-4f8b-975f-aa81ccd5aea2"/>
-<img src="https://github.com/user-attachments/assets/84b965d5-d84e-491a-be36-c5d3c0e46f0a"/>
+## 데이터 전처리 작업
+![image](https://github.com/user-attachments/assets/a25a50b4-13a0-457c-b1d7-01ed42b3baa0)
+![image](https://github.com/user-attachments/assets/317677b2-94bc-460c-b4f1-367f8737814b)
+![image](https://github.com/user-attachments/assets/5fab80a6-6032-4a28-a6d8-b90e041d8e29)
+![image](https://github.com/user-attachments/assets/0d666a7f-b8f1-43ca-9318-513116ebcc91)
   
-## 메인 웹 폼[메인화면]
-<img src="https://github.com/user-attachments/assets/cc098d46-e34d-4a05-8b38-3b812447d419"/>
-[코드 내용]https://github.com/DavidMao8849/Movie_Recommend_Project/blob/a5375c53a326d5de191bd83fb29e98753ac956a2/MovieMain.aspx#L1-L33
+## 모델 생성 및 학습 결과
+![image](https://github.com/user-attachments/assets/2eae6e84-308c-47cb-abda-4ea94458d3f6)
+![image](https://github.com/user-attachments/assets/a63b522c-932e-4340-a5f7-5dc03649ec7f)
 
-## 리스트 웹 폼[역대 흥행 영화 찾아보기]
-<img src="https://github.com/user-attachments/assets/ca78f735-93fd-4fd3-937f-f5c7b223788f"/>
-<img src="https://github.com/user-attachments/assets/7744b549-9799-4888-b540-f31efb51ba7e"/><br />
-[코드 내용]https://github.com/DavidMao8849/Movie_Recommend_Project/blob/a5375c53a326d5de191bd83fb29e98753ac956a2/MovieList.aspx#L1-L78
+
+## 학습결과 시각화
+![image](https://github.com/user-attachments/assets/962fef89-961d-4594-ba19-c4e70200cfd2)
+![image](https://github.com/user-attachments/assets/8d5f9473-6279-49a5-ad56-2bb039889550)
+![image](https://github.com/user-attachments/assets/6be409e0-1743-4ae4-b2af-7cf372400dd5)
+![image](https://github.com/user-attachments/assets/307671cb-365e-4fd5-b243-41fa025fb84e)
+
 
 ## 다시보기 웹 폼[장르별 다시 볼 영화 추천]
 ![image](https://github.com/user-attachments/assets/d229cf6e-5c5f-4195-975f-48409c9a0ac8)
