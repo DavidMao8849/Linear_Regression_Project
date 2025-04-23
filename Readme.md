@@ -60,31 +60,32 @@
 ![image](https://github.com/user-attachments/assets/630605ab-9c9f-4fb5-ba4d-b08920dd1a3f)
 
 ## 데이터 전처리 작업
-![image](https://github.com/user-attachments/assets/a25a50b4-13a0-457c-b1d7-01ed42b3baa0)
+https://github.com/DavidMao8849/Linear_Regression_Project/blob/d16b2c17fe00661a7321b0222b29cabc9ac6b1b1/pbl%5B%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%5D.py#L20-L23
 ![image](https://github.com/user-attachments/assets/317677b2-94bc-460c-b4f1-367f8737814b)
-![image](https://github.com/user-attachments/assets/5fab80a6-6032-4a28-a6d8-b90e041d8e29)
+https://github.com/DavidMao8849/Linear_Regression_Project/blob/d16b2c17fe00661a7321b0222b29cabc9ac6b1b1/pbl%5B%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%5D.py#L27-L49
 ![image](https://github.com/user-attachments/assets/0d666a7f-b8f1-43ca-9318-513116ebcc91)
   
 ## 모델 생성 및 학습 결과
-![image](https://github.com/user-attachments/assets/2eae6e84-308c-47cb-abda-4ea94458d3f6)
-![image](https://github.com/user-attachments/assets/a63b522c-932e-4340-a5f7-5dc03649ec7f)
+https://github.com/DavidMao8849/Linear_Regression_Project/blob/d16b2c17fe00661a7321b0222b29cabc9ac6b1b1/pbl%5B%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%5D.py#L67-L122
+![image](https://github.com/user-attachments/assets/b3188f29-3fbf-419f-ad45-3061a96e4e35)
 
 
 ## 학습결과 시각화
-![image](https://github.com/user-attachments/assets/962fef89-961d-4594-ba19-c4e70200cfd2)
+https://github.com/DavidMao8849/Linear_Regression_Project/blob/d16b2c17fe00661a7321b0222b29cabc9ac6b1b1/pbl%5B%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%5D.py#L126-L136
 ![image](https://github.com/user-attachments/assets/8d5f9473-6279-49a5-ad56-2bb039889550)
-![image](https://github.com/user-attachments/assets/6be409e0-1743-4ae4-b2af-7cf372400dd5)
 
 - ### 선형회귀 그래프<br/>
+https://github.com/DavidMao8849/Linear_Regression_Project/blob/d16b2c17fe00661a7321b0222b29cabc9ac6b1b1/pbl%5B%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%5D.py#L138-L164
 ![image](https://github.com/user-attachments/assets/307671cb-365e-4fd5-b243-41fa025fb84e)
 
 - ### 산점도로 볼시<br/>
+https://github.com/DavidMao8849/Linear_Regression_Project/blob/d16b2c17fe00661a7321b0222b29cabc9ac6b1b1/pbl%5B%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%5D.py#L166-L192
 ![image](https://github.com/user-attachments/assets/270ebf4f-28cb-4bee-9543-6179bdd0f348)
 
 ## 임의의 데이터로 예측하기
-![image](https://github.com/user-attachments/assets/f5415e06-f907-40d6-8ff5-9b630afed9a8)
-![image](https://github.com/user-attachments/assets/fa568611-dddf-4a37-a9e9-ddaaa924e3ed)
-![image](https://github.com/user-attachments/assets/33c184c5-38f3-4796-bc60-8772c8b2abfb)
+https://github.com/DavidMao8849/Linear_Regression_Project/blob/d16b2c17fe00661a7321b0222b29cabc9ac6b1b1/pbl%5B%ED%9A%8C%EA%B7%80%EB%B6%84%EC%84%9D%5D.py#L194-L208
+![image](https://github.com/user-attachments/assets/deae9e65-6abe-43e7-8e33-bfccd92abe8b)
+![image](https://github.com/user-attachments/assets/f09966d6-bf33-4af2-87c7-2dedd3a99fbb)
 
 </details>
 
