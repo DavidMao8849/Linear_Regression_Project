@@ -74,17 +74,17 @@
 ![image](https://github.com/user-attachments/assets/962fef89-961d-4594-ba19-c4e70200cfd2)
 ![image](https://github.com/user-attachments/assets/8d5f9473-6279-49a5-ad56-2bb039889550)
 ![image](https://github.com/user-attachments/assets/6be409e0-1743-4ae4-b2af-7cf372400dd5)
+
+- ### 선형회귀 그래프<br/>
 ![image](https://github.com/user-attachments/assets/307671cb-365e-4fd5-b243-41fa025fb84e)
 
+- ### 산점도로 볼시<br/>
+![image](https://github.com/user-attachments/assets/270ebf4f-28cb-4bee-9543-6179bdd0f348)
 
-## 다시보기 웹 폼[장르별 다시 볼 영화 추천]
-![image](https://github.com/user-attachments/assets/d229cf6e-5c5f-4195-975f-48409c9a0ac8)
-![image](https://github.com/user-attachments/assets/073f50d8-8782-488b-b9f4-5a4eb299c2d4)<br />
-[코드 내용]https://github.com/DavidMao8849/Movie_Recommend_Project/blob/a5375c53a326d5de191bd83fb29e98753ac956a2/MovieReview.aspx#L1-L79
-
-## 제작자 웹 폼[팀 이름 및 팀원 역할 ]
-![image](https://github.com/user-attachments/assets/9d0f1a82-a324-4b1f-998e-6e3403c8d82d)<br />
-[코드 내용]https://github.com/DavidMao8849/Movie_Recommend_Project/blob/74e04f01554d84551c4143e630d6f095a7f47022/MovieMaker.aspx#L1-L57
+## 임의의 데이터로 예측하기
+![image](https://github.com/user-attachments/assets/f5415e06-f907-40d6-8ff5-9b630afed9a8)
+![image](https://github.com/user-attachments/assets/fa568611-dddf-4a37-a9e9-ddaaa924e3ed)
+![image](https://github.com/user-attachments/assets/33c184c5-38f3-4796-bc60-8772c8b2abfb)
 
 </details>
 
