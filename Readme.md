@@ -15,7 +15,7 @@
 ---
 
 ## 🛠️ 사용 기술
-- **언어 및 라이브러리**: Python, Pandas, NumPy, Scikit-learn, Seaborn, Matplotlib  
+- **언어 및 라이브러리**: Python, Pandas, NumPy, Scikit-learn, Matplotlib  
 - **모델링**: 선형회귀, 랜덤 포레스트 회귀 (RandomForestRegressor)
 - **평가 지표**: MSE, MAPE, R² Score
 - **하이퍼파라미터 튜닝**: RandomizedSearchCV
