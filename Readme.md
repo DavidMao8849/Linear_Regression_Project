@@ -102,8 +102,8 @@ https://github.com/DavidMao8849/Linear_Regression_Project/blob/d16b2c17fe00661a7
        └─ 파생 변수 생성 (예: 연식 = 현재년도 - 건축년도)<br/>
        └─ 로그 변환 적용 (타겟 = 물건 가격)<br/>
     **문제해결(모델 설계/학습 부분)**<br/>
-       └─ 데이터 스케일링 이용<br/>
-       └─ 하이퍼 파라미터 튜닝 (RandomForest)<br/>
+       └─ 데이터 스케일링 이용(StandardScaler)<br/>
+       └─ 하이퍼 파라미터 튜닝 (RandomForestSearchCV)<br/>
 
 ## 💡 기대 효과 및 활용 방안
 - 부동산 거래 시 빠른 가격 예측 가능
